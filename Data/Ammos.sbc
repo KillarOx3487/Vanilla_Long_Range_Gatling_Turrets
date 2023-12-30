@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Ammos>
+	
+        <Ammo xsi:type="MyObjectBuilder_ProjectileAmmoDefinition">
+            <Id>
+                <TypeId>AmmoDefinition</TypeId>
+                <SubtypeId>LargeCaliber</SubtypeId>
+            </Id>
+            <BasicProperties>
+                <DesiredSpeed>400</DesiredSpeed>
+                <SpeedVariance>0</SpeedVariance>
+                <MaxTrajectory>2000</MaxTrajectory>
+                <BackkickForce>200</BackkickForce>
+                <PhysicalMaterial>GunBullet</PhysicalMaterial>
+            </BasicProperties>
+            <ProjectileProperties>
+                <ProjectileTrailScale>0.1</ProjectileTrailScale>
+                <ProjectileHitImpulse>2</ProjectileHitImpulse>
+                <ProjectileMassDamage>90</ProjectileMassDamage>
+                <ProjectileHealthDamage>33</ProjectileHealthDamage>
+                <HeadShot>true</HeadShot>
+            </ProjectileProperties>
+        </Ammo>
+	
+    </Ammos>
+</Definitions>
