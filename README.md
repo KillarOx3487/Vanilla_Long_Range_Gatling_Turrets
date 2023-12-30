@@ -18,7 +18,7 @@ Range: 1.5 km (1,500 meters)
 Both small and large grid use the vanilla gatling ammo.
 to place the turrets they are found under the vanilla gatling turret selection.
 
-Select the vanilla Gatling Turret from the G menu once on your hot bar use your Mouse wheel to scroll thru the options.
+Select the Gatling Turret from the G menu, once on your hot bar use your Mouse wheel to scroll thru the options.
 
 
-PLEASE DO NOT RE-UPLOAD THIS MOD WITH OUT THE MOD AUTHOR'S PERMISSION!
+DO NOT RE-UPLOAD THIS MOD WITH OUT THE MOD AUTHOR'S PERMISSION!
